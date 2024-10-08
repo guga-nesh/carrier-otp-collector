@@ -68,6 +68,9 @@ instance/
 # Scrapy stuff:
 .scrapy
 
+# Selenium stuff:
+chromedriver.exe
+
 # Sphinx documentation
 docs/_build/
 
@@ -129,6 +132,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+myenv/
 
 # Spyder project settings
 .spyderproject
