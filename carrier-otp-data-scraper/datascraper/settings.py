@@ -8,7 +8,10 @@
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
 SELENIUM_DRIVER_NAME = 'chrome'
-SELENIUM_DRIVER_EXECUTABLE_PATH = "C:/Users/Guganesh/laughtale/carrier-otp-collector/carrier-otp-data-scraper/chromedriver.exe"
+
+# Key in the path to your chromedriver here
+SELENIUM_DRIVER_EXECUTABLE_PATH = "/path/to/chromedriver.exe"
+
 SELENIUM_DRIVER_ARGUMENTS=['--disable-gpu', '--window-size=1920x1080', '--no-sandbox', '--disable-dev-shm-usage', '--disable-extensions', '--disable-browser-side-navigation'] # change it to ['-headless'] run in headless mode
 
 DOWNLOADER_MIDDLEWARES = {
