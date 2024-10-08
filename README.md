@@ -44,8 +44,7 @@ This project automates the process of scraping data from a dynamic website **(tr
    ```
 
    - Install Dependencies:
-   <br>
-   `pip install -r requirements.txt`
+   <br> `pip install -r requirements.txt`
 2. **Set up ChromeDriver:**
    - Ensure that ChromeDriver is installed and compatible with your Chrome version.
    - Update the `SELENIUM_DRIVER_EXECUTABLE_PATH` in Scrapy settings:
