@@ -59,4 +59,5 @@ This project automates the process of scraping data from a dynamic website **(tr
 
 ## Video Demo
 
-Watch the demo of the project here.
+https://github.com/user-attachments/assets/4a26c681-ac1a-4b71-aade-856fc76caaae
+
